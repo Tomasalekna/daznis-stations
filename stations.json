@@ -135,10 +135,59 @@
       "country": "DK",
       "name": "Radio FLR",
       "url": "http://play.radioflr.dk:9000/stream"
+    },
+    {
+      "country": "GB",
+      "name": "BBC World Service",
+      "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
+    },
+    {
+      "country": "GB",
+      "name": "BBC Somali Radio",
+      "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_somali_radio"
+    },
+    {
+      "country": "GB",
+      "name": "BFBS",
+      "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac"
+    },
+    {
+      "country": "GB",
+      "name": "BFBS Radio 2",
+      "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs2.aac"
+    },
+    {
+      "country": "GB",
+      "name": "BFBS Rewind",
+      "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs21.aac"
+    },
+    {
+      "country": "GB",
+      "name": "1Mix Radio - Trance",
+      "url": "http://fr1.1mix.co.uk:8060/320"
+    },
+    {
+      "country": "GB",
+      "name": "1Mix Radio - EDM",
+      "url": "http://fr1.1mix.co.uk:8060/320h"
+    },
+    {
+      "country": "GB",
+      "name": "BlastFM Internet Radio Station",
+      "url": "https://station.blastfm.net:8000/;"
     }
   ],
   "hidden": [
     "M-1 Radio",
-    "Radijo stotis M-1"
+    "Radijo stotis M-1",
+    "1Mix Radio - House",
+    "1Mix Radio - Trance #1",
+    "Festive365",
+    "Cosoro Evergreen",
+    "Coalville Public Radio",
+    "Drearburh - The Ninth House Radio",
+    "Energy FM - Old School Classics",
+    "Dee 106.3",
+    "CGM UKSCENE RADIO"
   ]
 }
