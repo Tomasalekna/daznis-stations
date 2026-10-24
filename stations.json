@@ -5,7 +5,140 @@
       "name": "M-1",
       "url": "https://stream.m-1.fm/m1/mp3",
       "id": "963d153d-0601-11e8-ae97-52543be04c81"
+    },
+    {
+      "country": "DK",
+      "name": "DR P1",
+      "url": "https://live-icy.dr.dk/A/A03H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P2",
+      "url": "https://live-icy.dr.dk/A/A04H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P3",
+      "url": "https://live-icy.dr.dk/A/A05H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P4 Bornholm",
+      "url": "https://live-icy.dr.dk/A/A06H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P4 Esbjerg",
+      "url": "https://live-icy.dr.dk/A/A15H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P4 Fyn",
+      "url": "https://live-icy.dr.dk/A/A07H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P4 København",
+      "url": "https://live-icy.dr.dk/A/A08H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P4 Midt-Vest",
+      "url": "https://live-icy.dr.dk/A/A09H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P4 Nordjylland",
+      "url": "https://live-icy.dr.dk/A/A10H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P4 Sjælland",
+      "url": "https://live-icy.dr.dk/A/A11H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P4 Syd",
+      "url": "https://live-icy.dr.dk/A/A12H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P4 Østjylland",
+      "url": "https://drliveradio2.akamaized.net/hls/live/2118698/p4ostjylland/playlist-320000.m3u8"
+    },
+    {
+      "country": "DK",
+      "name": "DR P4 Trekanten",
+      "url": "https://drliveradio2.akamaized.net/hls/live/2118698/p4trekanten/playlist-320000.m3u8"
+    },
+    {
+      "country": "DK",
+      "name": "DR P5 Bornholm",
+      "url": "https://live-icy.dr.dk/A/A30H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P5 Esbjerg",
+      "url": "https://live-icy.dr.dk/A/A26H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P5 Fyn",
+      "url": "https://live-icy.dr.dk/A/A02H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P5 København",
+      "url": "https://live-icy.dr.dk/A/A25H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P5 Midt-Vest",
+      "url": "https://live-icy.dr.dk/A/A17H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P5 Nordjylland",
+      "url": "https://drliveradio2.akamaized.net/hls/live/2118698/p5nordjylland/playlist-320000.m3u8"
+    },
+    {
+      "country": "DK",
+      "name": "DR P5 Sjælland",
+      "url": "https://live-icy.dr.dk/A/A19H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P5 Syd",
+      "url": "https://drliveradio2.akamaized.net/hls/live/2118698/p5syd/playlist-320000.m3u8"
+    },
+    {
+      "country": "DK",
+      "name": "DR P5 Trekanten",
+      "url": "https://live-icy.dr.dk/A/A23H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P5 Østjylland",
+      "url": "https://live-icy.dr.dk/A/A24H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P6 BEAT",
+      "url": "https://live-icy.dr.dk/A/A29H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "DR P8 JAZZ",
+      "url": "https://live-icy.dr.dk/A/A22H.mp3"
+    },
+    {
+      "country": "DK",
+      "name": "Radio FLR",
+      "url": "http://play.radioflr.dk:9000/stream"
     }
   ],
-  "hidden": ["M-1 Radio", "Radijo stotis M-1"]
+  "hidden": [
+    "M-1 Radio",
+    "Radijo stotis M-1"
+  ]
 }
