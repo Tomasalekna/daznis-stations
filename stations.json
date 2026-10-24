@@ -1,0 +1,11 @@
+{
+  "stations": [
+    {
+      "country": "LT",
+      "name": "M-1",
+      "url": "https://stream.m-1.fm/m1/mp3",
+      "id": "963d153d-0601-11e8-ae97-52543be04c81"
+    }
+  ],
+  "hidden": []
+}
